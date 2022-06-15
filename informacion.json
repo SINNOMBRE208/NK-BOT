@@ -1,14 +1,18 @@
 {
-	"Prefijo": "$",
+	"Prefijo": ".",
 	"NombreDelBot": "ADRY",
 	"ControladorDelBot": [
-		"5217971532324@s.whatsapp.net"
+		"51995386439@s.whatsapp.net",
+		"52999999999@s.whatsapp.net",
+		"53999999999@s.whatsapp.net",
+		"55999999999@s.whatsapp.net",
+		"54999999999@s.whatsapp.net"
 	],
-	"CoCreador": "Cristian_Aguilar ",
-	"NumeroDelBot": "527871083481",
-	"MyPais": "52",
+	"CoCreador": "Cristian_Aguilar",
+	"NumeroDelBot": "527971083481",
+	"MyPais": "51",
 	"MiembrosMinimoEnUnGrupo": "1",
-	"LimiteParaUsarComandos": "100",
-	"TusRedesSociales": "PÁGINA FACEBOOK https://www.facebook.com/Banri21/ Muchisimas gracias por tu apoyo mi king :3",
+	"LimiteParaUsarComandos": "30",
+	"TusRedesSociales": "Canal de https://www.facebook.com/Banri21/Muchisimas gracias por tu apoyo mi king :3",
 	"CtrlG": ""
 }
